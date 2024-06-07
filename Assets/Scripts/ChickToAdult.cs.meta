@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 467d4a0c8d23f1e4d9796dba22d51e37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - henPrefab: {fileID: 6862567220277899033, guid: 44e1a85255fd1884fb9d2a1e04050ace, type: 3}
+  - roosterPrefab: {fileID: 147718652997244713, guid: ccb590d21bd130e4f9262d6c943801e5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

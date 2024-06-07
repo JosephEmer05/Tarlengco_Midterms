@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f24e769650fd5c143958d9ae0d029086
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chickPrefab: {fileID: 3651840180283056188, guid: 4aefd53506cbacb4282a7ea09b821dce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
